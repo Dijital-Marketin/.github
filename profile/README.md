@@ -4,34 +4,35 @@
 
 <h1 align="center">Dijital Marketin</h1>
 
-<p align="center"><strong>İyi bilgi. Daha iyi kararlar.</strong></p>
+<p align="center"><strong>Dijital Yazılım ve SaaS</strong></p>
 
 <p align="center">
-  E-ticaret için kısa, odaklı ve uygulanabilir kitapçıklar.<br />
-  Seçin, okuyun, kendi işinize uygulayın.
+  Kampanya, içerik, kârlılık ve günlük iş akışları için web yazılımları.<br />
+  Abonelikli ürünler ve tek seferlik, süreli lisanslar.
 </p>
 
 <p align="center">
-  <a href="https://dijitalmarketin.com">E-ticaret kitaplığını keşfet</a>
+  <a href="https://dijitalmarketin.com">Yazılımları incele</a>
 </p>
 
-![Dönüşüm, Abonelik ve Pazaryeri kitapçıkları](https://raw.githubusercontent.com/Dijital-Marketin/.github/main/profile/assets/collection.webp)
+## Yazılımlar
 
-## Kitaplık
+| Ürün | Kapsam | Lisans modeli |
+| :--- | :--- | :--- |
+| **Marketin Studio** | Kampanya, görev ve bütçe takibi | Aylık / yıllık |
+| **Kâr Pusulası** | Kâr, marj, başabaş ve ROAS analizi | Aylık / yıllık |
+| **İçerik Takvimi** | İçerik, kanal ve yayın durumu planlama | Aylık / yıllık |
+| **Teklif Atölyesi** | Kalemli teklifler, toplam hesabı ve yazdırma | Tek ödeme / 12 aylık |
+| **Tablo Temizleyici** | Tarayıcıda CSV temizleme ve sütun seçimi | Tek ödeme / 12 aylık |
+| **Link Atölyesi** | UTM bağlantı üretimi ve kayıt yönetimi | Tek ödeme / 12 aylık |
 
-| Kitapçık | Odak |
-| :--- | :--- |
-| **Dönüşüm** | Ürün sayfası, müşteri güveni ve satın alma kararları. |
-| **Abonelik** | Fiyatlandırma, müşteri bağlılığı ve tekrar eden gelir. |
-| **Pazaryeri** | Marka konumlandırması, kârlılık ve operasyon. |
-
-Her kitapçık bağımsızdır. Haftalık, aylık veya yıllık erişimi her biri için ayrı seçebilirsiniz. İlk bölüm ücretsiz okunabilir.
+Her ürünün lisansı ve kapsamı bağımsızdır. Ürün inceleme ekranları örnek verilerle çalışır; ücretsiz lisans tanımlanmaz. **Satış henüz açık değildir; ödeme alınmaz.** Mevcut sürümde otomatik yenileme yoktur.
 
 ## Yaklaşımımız
 
-- Uzun sunumlar yerine odaklı bölümler.
-- Her bölümde işe uygulanabilir kontrol listeleri.
-- Kişisel kitaplık ve kaldığınız yerden devam edebileceğiniz bir okuma deneyimi.
+- Somut iş akışları ve çalışan araçlar.
+- Açık fiyat, dönem ve kullanım sınırları.
+- Hesaba özel çalışma alanları, destek ve anlaşılır lisans koşulları.
 
 ---
 
